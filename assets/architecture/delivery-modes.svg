@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1190" height="340" viewBox="0 0 1190 340" role="img" aria-labelledby="t d">
+<title id="t">Contract-dependent access modes</title><desc id="d">Public IMI REST is existing. Historical replay and dedicated WebSocket are proposed until tested and contract-approved.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#48d7e9"/></marker><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2"/></filter></defs>
+<rect width="1190" height="340" rx="22" fill="#091324" />
+<text x="30" y="36" fill="#7ce8f3" font-size="14" font-family="Arial,sans-serif">DELIVERY MODES  /  STATUS MUST BE VISIBLE</text>
+<rect x="28" y="80" width="335" height="118" rx="13" fill="#12283d" stroke="#277486" stroke-width="1.5"/>
+<text x="195.5" y="115" fill="#e7f8ff" text-anchor="middle" font-size="22" font-weight="700" font-family="Arial,sans-serif">REST</text>
+<text x="195.5" y="138" fill="#a3bdcd" text-anchor="middle" font-size="14" font-family="Arial,sans-serif">Existing IMI API</text>
+<text x="46" y="229" fill="#b0cfdf" font-size="16" font-family="Arial,sans-serif">Caller-supplied event</text>
+<rect x="428" y="80" width="335" height="118" rx="13" fill="#12283d" stroke="#277486" stroke-width="1.5"/>
+<text x="595.5" y="115" fill="#e7f8ff" text-anchor="middle" font-size="22" font-weight="700" font-family="Arial,sans-serif">Historical replay</text>
+<text x="595.5" y="138" fill="#a3bdcd" text-anchor="middle" font-size="14" font-family="Arial,sans-serif">Proposed / gated</text>
+<text x="446" y="229" fill="#b0cfdf" font-size="16" font-family="Arial,sans-serif">Approved recorded inputs</text>
+<rect x="828" y="80" width="335" height="118" rx="13" fill="#12283d" stroke="#277486" stroke-width="1.5"/>
+<text x="995.5" y="115" fill="#e7f8ff" text-anchor="middle" font-size="22" font-weight="700" font-family="Arial,sans-serif">Dedicated WebSocket</text>
+<text x="995.5" y="138" fill="#a3bdcd" text-anchor="middle" font-size="14" font-family="Arial,sans-serif">Proposed / gated</text>
+<text x="846" y="229" fill="#b0cfdf" font-size="16" font-family="Arial,sans-serif">Tenant event delivery</text>
+<text x="30" y="295" fill="#7ce8f3" font-size="14" font-family="Arial,sans-serif">Existing public Edge REST is a separate hosted product; a live leased stream is not yet proven.</text></svg>

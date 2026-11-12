@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1190" height="305" viewBox="0 0 1190 305" role="img" aria-labelledby="t d">
+<title id="t">Institutional leasing onboarding gates</title><desc id="d">Qualify client, verify data rights, agree contract, isolate sandbox, validate, then approve production access.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#48d7e9"/></marker><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2"/></filter></defs>
+<rect width="1190" height="305" rx="22" fill="#091324" />
+<text x="24" y="35" fill="#7ce8f3" font-size="14" font-family="Arial,sans-serif">CLIENT ONBOARDING  /  REQUIRED GATES</text>
+<rect x="25" y="95" width="165" height="98" rx="13" fill="#12283d" stroke="#277486" stroke-width="1.5"/>
+<text x="107.5" y="130" fill="#e7f8ff" text-anchor="middle" font-size="18" font-weight="700" font-family="Arial,sans-serif">01  Qualify</text>
+<text x="107.5" y="153" fill="#a3bdcd" text-anchor="middle" font-size="14" font-family="Arial,sans-serif">Entity + role</text>
+<path d="M190 143 L213 143" stroke="#48d7e9" stroke-width="2.5" fill="none" marker-end="url(#arr)" />
+<rect x="215" y="95" width="165" height="98" rx="13" fill="#12283d" stroke="#277486" stroke-width="1.5"/>
+<text x="297.5" y="130" fill="#e7f8ff" text-anchor="middle" font-size="18" font-weight="700" font-family="Arial,sans-serif">02  Rights</text>
+<text x="297.5" y="153" fill="#a3bdcd" text-anchor="middle" font-size="14" font-family="Arial,sans-serif">Feed + output license</text>
+<path d="M380 143 L403 143" stroke="#48d7e9" stroke-width="2.5" fill="none" marker-end="url(#arr)" />
+<rect x="405" y="95" width="165" height="98" rx="13" fill="#12283d" stroke="#277486" stroke-width="1.5"/>
+<text x="487.5" y="130" fill="#e7f8ff" text-anchor="middle" font-size="18" font-weight="700" font-family="Arial,sans-serif">03  Contract</text>
+<text x="487.5" y="153" fill="#a3bdcd" text-anchor="middle" font-size="14" font-family="Arial,sans-serif">Modules + retention</text>
+<path d="M570 143 L593 143" stroke="#48d7e9" stroke-width="2.5" fill="none" marker-end="url(#arr)" />
+<rect x="595" y="95" width="165" height="98" rx="13" fill="#12283d" stroke="#277486" stroke-width="1.5"/>
+<text x="677.5" y="130" fill="#e7f8ff" text-anchor="middle" font-size="18" font-weight="700" font-family="Arial,sans-serif">04  Sandbox</text>
+<text x="677.5" y="153" fill="#a3bdcd" text-anchor="middle" font-size="14" font-family="Arial,sans-serif">Isolated test</text>
+<path d="M760 143 L783 143" stroke="#48d7e9" stroke-width="2.5" fill="none" marker-end="url(#arr)" />
+<rect x="785" y="95" width="165" height="98" rx="13" fill="#12283d" stroke="#277486" stroke-width="1.5"/>
+<text x="867.5" y="130" fill="#e7f8ff" text-anchor="middle" font-size="18" font-weight="700" font-family="Arial,sans-serif">05  Validate</text>
+<text x="867.5" y="153" fill="#a3bdcd" text-anchor="middle" font-size="14" font-family="Arial,sans-serif">Load + evidence</text>
+<path d="M950 143 L973 143" stroke="#48d7e9" stroke-width="2.5" fill="none" marker-end="url(#arr)" />
+<rect x="975" y="95" width="165" height="98" rx="13" fill="#12283d" stroke="#277486" stroke-width="1.5"/>
+<text x="1057.5" y="130" fill="#e7f8ff" text-anchor="middle" font-size="18" font-weight="700" font-family="Arial,sans-serif">06  Activate</text>
+<text x="1057.5" y="153" fill="#a3bdcd" text-anchor="middle" font-size="14" font-family="Arial,sans-serif">Approval + monitoring</text>
+<text x="25" y="260" fill="#7ce8f3" font-size="14" font-family="Arial,sans-serif">No production keys, paid feed or p99 SLA before source-rights, security and load acceptance.</text></svg>

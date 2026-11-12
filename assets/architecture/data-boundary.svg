@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1190" height="420" viewBox="0 0 1190 420" role="img" aria-labelledby="t d">
+<title id="t">Customer-authorized data to bounded output</title><desc id="d">Proposed high-level chain from customer-authorized data through tenant adapter and approved modules to REST or streaming interfaces; IMI, Edge, and replay are separate contracts.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#48d7e9"/></marker><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2"/></filter></defs>
+<rect width="1190" height="420" rx="22" fill="#091324" />
+<text x="28" y="32" fill="#7ce8f3" font-size="14" font-family="Arial,sans-serif">TARGET DESIGN  /  CUSTOMER-OWNED SOURCE TO CONTRACTED OUTPUT</text>
+<rect x="30" y="80" width="220" height="90" rx="13" fill="#12283d" stroke="#277486" stroke-width="1.5"/>
+<text x="140.0" y="115" fill="#e7f8ff" text-anchor="middle" font-size="20" font-weight="700" font-family="Arial,sans-serif">Authorized inputs</text>
+<text x="140.0" y="138" fill="#a3bdcd" text-anchor="middle" font-size="14" font-family="Arial,sans-serif">Client-controlled rights</text>
+<rect x="315" y="80" width="220" height="90" rx="13" fill="#12283d" stroke="#277486" stroke-width="1.5"/>
+<text x="425.0" y="115" fill="#e7f8ff" text-anchor="middle" font-size="20" font-weight="700" font-family="Arial,sans-serif">Tenant ingestion</text>
+<text x="425.0" y="138" fill="#a3bdcd" text-anchor="middle" font-size="14" font-family="Arial,sans-serif">Source adapter + QA</text>
+<rect x="600" y="80" width="220" height="90" rx="13" fill="#12283d" stroke="#277486" stroke-width="1.5"/>
+<text x="710.0" y="115" fill="#e7f8ff" text-anchor="middle" font-size="20" font-weight="700" font-family="Arial,sans-serif">Approved modules</text>
+<text x="710.0" y="138" fill="#a3bdcd" text-anchor="middle" font-size="14" font-family="Arial,sans-serif">Bounded analytical output</text>
+<rect x="885" y="80" width="270" height="90" rx="13" fill="#12283d" stroke="#277486" stroke-width="1.5"/>
+<text x="1020.0" y="115" fill="#e7f8ff" text-anchor="middle" font-size="20" font-weight="700" font-family="Arial,sans-serif">REST / streaming</text>
+<text x="1020.0" y="138" fill="#a3bdcd" text-anchor="middle" font-size="14" font-family="Arial,sans-serif">Only as contracted</text>
+<path d="M250 125 L315 125" stroke="#48d7e9" stroke-width="2.5" fill="none" marker-end="url(#arr)" />
+<path d="M535 125 L600 125" stroke="#48d7e9" stroke-width="2.5" fill="none" marker-end="url(#arr)" />
+<path d="M820 125 L885 125" stroke="#48d7e9" stroke-width="2.5" fill="none" marker-end="url(#arr)" />
+<rect x="315" y="218" width="220" height="90" rx="13" fill="#12283d" stroke="#277486" stroke-width="1.5"/>
+<text x="425.0" y="253" fill="#e7f8ff" text-anchor="middle" font-size="20" font-weight="700" font-family="Arial,sans-serif">Event intelligence</text>
+<text x="425.0" y="276" fill="#a3bdcd" text-anchor="middle" font-size="14" font-family="Arial,sans-serif">IMI / standalone REST</text>
+<rect x="600" y="218" width="220" height="90" rx="13" fill="#12283d" stroke="#277486" stroke-width="1.5"/>
+<text x="710.0" y="253" fill="#e7f8ff" text-anchor="middle" font-size="20" font-weight="700" font-family="Arial,sans-serif">Edge assessment</text>
+<text x="710.0" y="276" fill="#a3bdcd" text-anchor="middle" font-size="14" font-family="Arial,sans-serif">Separate product / gated</text>
+<rect x="885" y="218" width="270" height="90" rx="13" fill="#12283d" stroke="#277486" stroke-width="1.5"/>
+<text x="1020.0" y="253" fill="#e7f8ff" text-anchor="middle" font-size="20" font-weight="700" font-family="Arial,sans-serif">Evidence / replay</text>
+<text x="1020.0" y="276" fill="#a3bdcd" text-anchor="middle" font-size="14" font-family="Arial,sans-serif">Historical, approved scope</text>
+<path d="M425 170 L425 218" stroke="#48d7e9" stroke-width="2.5" fill="none" marker-end="url(#arr)" />
+<path d="M710 170 L710 218" stroke="#48d7e9" stroke-width="2.5" fill="none" marker-end="url(#arr)" />
+<path d="M1015 170 L1015 218" stroke="#48d7e9" stroke-width="2.5" fill="none" marker-end="url(#arr)" />
+<text x="30" y="352" fill="#7ce8f3" font-size="14" font-family="Arial,sans-serif">No raw market-data resale. No automatic IMI-to-Edge feed join is asserted.</text>
+<text x="30" y="383" fill="#7ce8f3" font-size="14" font-family="Arial,sans-serif">Output rights, source identity and market-data permissions remain customer-specific.</text></svg>
